@@ -1,6 +1,6 @@
 {
   "name": "react-native-viewport-units",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Incredibly simple utility for (sort of) using viewport units with React Native.",
   "license": "MIT",
   "repository": "Alex-231/react-native-viewport-units",
@@ -8,7 +8,7 @@
     "name": "Jeff Stout",
     "url": "http://jmstout.com"
   },
-  "main": "viewport-units.js",
+  "main": "index.js",
   "peerDependencies": {
     "react-native": "^0.55.4"
   },
